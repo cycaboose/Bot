@@ -2,7 +2,7 @@
 // ==UserScript==
 // @name         PlaceIE Bot
 // @namespace    https://github.com/knauth/Bot
-// @version      20
+// @version      21
 // @description  Go PlaceIE!
 // @author       NoahvdAa. rolltime & Doggo404
 // @match        https://www.reddit.com/r/place/*
@@ -17,6 +17,8 @@
 // @grant        GM_getResourceText
 // @grant        GM_addStyle
 // @grant        GM.xmlHttpRequest
+// @connect      https://reddit.com
+// @connect	 mainuser.dev
 // ==/UserScript==
 
 // Sorry voor de rommelige code, haast en clean gaatn iet altijd samen ;)
